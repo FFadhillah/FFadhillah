@@ -1,12 +1,33 @@
-<h1 align="center">Hi 👋, I'm Fajar Fadhillah</h1>
-<h3 align="center">Front-End Developer</h3>
+<h1 align="center">Welcome To My GitHub Profile !</h1>
+<div align="center">
+  <img src="https://i.ibb.co.com/P9wdsPT/helloworld.png" alt="helloworld" border="0">
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ffadhillah&label=Profile%20views&color=0e75b6&style=flat" alt="ffadhillah" /> </p>
+<h1 align="center">Hi 👋, I'm Fajar</h1>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</div>
+<h3 align="center">A passionate self-taught frontend developer from Indonesia</h3>
+<br>
+
+<h3>:man_technologist: About Me :</h3>
+
+- 🌱 I’m currently learning **Typescript | Python | SQL**
+
+- 📫 How to reach me **arcreactor00@gmail.com**
+
+- ⚡ Fun fact: 
+  <ul>
+    <li><em>Besides programming, I like Reading & Design Something</em></li>
+    <li><em>Sometimes I cooking for my family and my friend</em></li>
+  </ul>
+
+<div id="header" align="center">
+  <a href="https://gifyu.com/image/SBRA1"><img src="https://s1.gifyu.com/images/SBRA1.gif" alt="lets connect" border="0" /></a>
+</div>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ffadhillah&show_icons=true&locale=en" alt="ffadhillah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ffadhillah&" alt="ffadhillah" /></p>
